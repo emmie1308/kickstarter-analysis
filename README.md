@@ -35,5 +35,5 @@ failed.
 - Launching a campaign in May will most likey be successful.
 - The least amount of campaigns are launched during December.
 
-- Most successful campaigns have a set goal of less than or equal to $1000.
+- Most successful campaigns have a set goal of less than $1000.
 - Campaigns that had a goal between $45k and $49999 failed.
